@@ -28,14 +28,16 @@
 
 ---
 
-## 🐍 Commit Snake
-![Snake animation](https://github.com/d4nughost999/d4nughost999/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=d4nughost999&theme=gruvbox&no-frame=true&column=4" alt="trophies"/>
+</p>
+
+---
+
+## 🎶 Lagu Tema
+<p align="center">
+  🎧 [Klik di sini untuk memutar lagu tema (dengan player)](https://d4nughost.github.io/audio.html)
 </p>
 
 ---
