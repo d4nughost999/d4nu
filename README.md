@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f7ff&height=200&section=header&text=d4nu-ghost&fontSize=50&fontColor=000000&animation=fadeIn&fontAlignY=35" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f7ff&height=200&section=header&text=d4nughost999&fontSize=50&fontColor=000000&animation=fadeIn&fontAlignY=35" alt="banner"/>
 </p>
 
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Halo%2C+saya+d4nu-ghost;Pentester+%7C+Bug+Hunter+%7C+Coder;Ngopi+%2B+Ngebug+%3D+Santuy" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Halo%2C+saya+d4nughost999;Pentester+%7C+Bug+Hunter+%7C+Coder;Ngopi+%2B+Ngebug+%3D+Santuy" alt="Typing SVG" />
 </p>
 
 ---
@@ -22,20 +22,20 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=d4nu-ghost&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d4nu-ghost&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=d4nu-ghost&theme=radical&hide_border=false)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=d4nughost999&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d4nughost999&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=d4nughost999&theme=radical&hide_border=false)
 
 ---
 
 ## 🐍 Commit Snake
-![Snake animation](https://github.com/d4nu-ghost/d4nu-ghost/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/d4nughost999/d4nughost999/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=d4nu-ghost&theme=onedark&no-frame=true&margin-w=15&margin-h=15" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=d4nughost999&theme=onedark&no-frame=true&margin-w=15&margin-h=15" alt="trophies"/>
 </p>
 
 ---
@@ -48,7 +48,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=d4nu-ghost&label=Profile%20Visitors&color=blue&style=for-the-badge" alt="visitor badge"/>
+  <img src="https://komarev.com/ghpvc/?username=d4nughost999&label=Profile%20Visitors&color=blue&style=for-the-badge" alt="visitor badge"/>
 </p>
 
 <p align="center">
