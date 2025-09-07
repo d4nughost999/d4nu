@@ -35,7 +35,7 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=d4nughost999&theme=onedark&no-frame=true&margin-w=15&margin-h=15" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=d4nughost999&theme=gruvbox&no-frame=true&column=4" alt="trophies"/>
 </p>
 
 ---
