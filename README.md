@@ -1,1 +1,60 @@
- @import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap'); body { background-color: #000; color: #00ff00; font-family: 'Share Tech Mono', monospace; margin: 0; padding: 2rem; line-height: 1.5; } .container { max-width: 700px; margin: 0 auto; text-align: center; } img.avatar { width: 180px; height: 180px; border-radius: 50%; border: 3px solid #00ff00; box-shadow: 0 0 15px #00ff00; margin-bottom: 1rem; } h1 { font-size: 3rem; margin: 0.5rem 0; text-shadow: 0 0 10px #00ff00; } em { font-style: italic; color: #66ff66; } hr { border: 1px solid #00ff00; margin: 2rem 0; } table { width: 100%; border-collapse: collapse; margin: 1.5rem 0; } th, td { border: 1px solid #00ff00; padding: 0.75rem; } th { background-color: #003300; } a { color: #00ff00; text-decoration: none; } a:hover { text-decoration: underline; } .stats { margin: 1rem 0; } .footer { margin-top: 3rem; font-size: 1.1rem; color: #33ff33; } </style> </head> <body> <div class="container"> <img class="avatar" src="https://image2url.com/images/1756982166394-31e12d70-89af-4f6a-b354-cdb983d619b2.jpg" alt="AnonGhost logo: stylized ghostly figure with digital glitch effect in green and black tones" /> <h1>AnonGhost</h1> <p><em>In the shadows of the net, I code the unseen... a digital apparition crafting chaos with curiosity and cunning.</em></p> <hr /> <section> <h2>Tentang Saya</h2> <p>Saya seorang hacker digital yang suka menjelajah dunia kode dan keamanan siber.<br /> Misi saya adalah mengeksplorasi sistem, belajar dari celah, dan membangun solusi yang kuat dan tersembunyi.</p> </section> <section class="stats"> <h2>Statistik GitHub</h2> <img src="https://github-readme-stats.vercel.app/api?username=anon-ghost-crypt&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="AnonGhost's GitHub stats" /> </section> <section> <h2>Proyek Unggulan</h2> <table> <thead> <tr> <th>Nama Proyek</th> <th>Deskripsi Singkat</th> <th>Bahasa Pemrograman</th> </tr> </thead> <tbody> <tr> <td>GhostCrypt</td> <td>Alat enkripsi spektral yang menghantui data Anda – tak terpecahkan dan tak terlacak.</td> <td>Python</td> </tr> <tr> <td>PhantomAI</td> <td>AI yang berbisik di kekosongan – belajar dari yang tak terlihat dan memprediksi yang tak terduga.</td> <td>JavaScript</td> </tr> <tr> <td>WebHaunt</td> <td>Crawler yang memetakan dark web secara spektral, mengekstrak rahasia dari kegelapan.</td> <td>Go</td> </tr> </tbody> </table> </section> <section> <h2>Hubungi Saya</h2> <p> Twitter: <a href="https://twitter.com/anon_ghost_crypt" target="_blank" rel="noopener noreferrer">@anon_ghost_crypt</a><br /> LinkedIn: <a href="https://linkedin.com/in/anonghost" target="_blank" rel="noopener noreferrer">AnonGhost</a><br /> Blog: <a href="https://ghostlycode.example.com" target="_blank" rel="noopener noreferrer">ghostlycode.example.com</a> </p> </section> <div class="footer"> “Digitally vaporized in the matrix. Follow my ghosts...” </div> </div> </body> </html> </create_file>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f7ff&height=200&section=header&text=d4nu-ghost&fontSize=50&fontColor=000000&animation=fadeIn&fontAlignY=35" alt="banner"/>
+</p>
+
+<p align="center">
+  <img src="https://image2url.com/images/1756982166394-31e12d70-89af-4f6a-b354-cdb983d619b2.jpg" alt="logo" width="200"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Halo%2C+saya+d4nu-ghost;Pentester+%7C+Bug+Hunter+%7C+Coder;Ngopi+%2B+Ngebug+%3D+Santuy" alt="Typing SVG" />
+</p>
+
+---
+
+## ⚡ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=nmap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=d4nu-ghost&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d4nu-ghost&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=d4nu-ghost&theme=radical&hide_border=false)
+
+---
+
+## 🐍 Commit Snake
+![Snake animation](https://github.com/d4nu-ghost/d4nu-ghost/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=d4nu-ghost&theme=onedark&no-frame=true&margin-w=15&margin-h=15" alt="trophies"/>
+</p>
+
+---
+
+## 📬 Hubungi Saya
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/anon_ghost_crypt)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anonghost)
+[![Blog](https://img.shields.io/badge/Blog-ghostlycode.example.com-blueviolet?style=for-the-badge&logo=ghost&logoColor=white)](https://ghostlycode.example.com/)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=d4nu-ghost&label=Profile%20Visitors&color=blue&style=for-the-badge" alt="visitor badge"/>
+</p>
+
+<p align="center">
+  🚀 Stay curious, stay hacking 🕶️
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f7ff&height=100&section=footer"/>
+</p>
