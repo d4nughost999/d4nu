@@ -28,21 +28,9 @@
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=d4nughost999&theme=gruvbox&no-frame=true&column=4" alt="trophies"/>
-</p>
 
 ---
 
-
-
----
-
-## 📬 Hubungi Saya
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/anon_ghost_crypt)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anonghost)
-[![Blog](https://img.shields.io/badge/Blog-ghostlycode.example.com-blueviolet?style=for-the-badge&logo=ghost&logoColor=white)](https://ghostlycode.example.com/)
 
 ---
 
