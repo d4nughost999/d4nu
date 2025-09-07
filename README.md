@@ -35,10 +35,7 @@
 
 ---
 
-## 🎶 Lagu Tema
-<p align="center">
-  🎧 [Klik di sini untuk memutar lagu tema (dengan player)](https://d4nughost.github.io/audio.html)
-</p>
+
 
 ---
 
