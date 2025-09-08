@@ -45,3 +45,33 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00f7ff&height=100&section=footer"/>
 </p>
+# Google Dorker v2 - Filter Mode  
+
+Author: d4nu-ghost  
+
+Tool ini dibuat untuk melakukan Google Dorking secara otomatis dengan fitur filter domain (.id, .go.id, .sch.id, dll).  
+Cocok buat eksplorasi hasil pencarian Google tanpa harus capek ngetik manual.  
+
+---
+
+## 🚀 Fitur
+- Ambil hasil pencarian Google otomatis.
+- Bisa pilih jumlah halaman (1 halaman ≈ 10 hasil).
+- Filter domain sesuai kebutuhan.
+- Random User-Agent biar ga gampang kena block Google.
+- Simpan hasil ke file .txt.
+
+---
+
+## 📸 Screenshot
+Contoh saat dijalankan di Kali Linux:
+
+![Google Dorker Run](screenshot.png)
+
+---
+
+## 🔧 Cara Penggunaan
+1. Clone repository ini:
+   `bash
+   git clone https://github.com/d4nughost999/namarepo.git
+   cd namarepo
