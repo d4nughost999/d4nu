@@ -74,5 +74,8 @@ Contoh saat dijalankan di Kali Linux:
 ##  1. Clone repository ini:
 
    ```bash
-   git clone https://github.com/d4nughost999/.git
-   cd namarepo
+   git clone https://github.com/d4nughost999/d4nu.git
+
+   cd d4nu
+
+   python goole_dorker_filter.py
