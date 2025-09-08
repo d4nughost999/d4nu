@@ -71,7 +71,8 @@ Contoh saat dijalankan di Kali Linux:
 ---
 
 ## 🔧 Cara Penggunaan
-1. Clone repository ini:
-   `bash
-   git clone https://github.com/d4nughost999/namarepo.git
+##  1. Clone repository ini:
+
+   ```bash
+   git clone https://github.com/d4nughost999/.git
    cd namarepo
