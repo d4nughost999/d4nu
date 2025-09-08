@@ -66,7 +66,7 @@ Cocok buat eksplorasi hasil pencarian Google tanpa harus capek ngetik manual.
 ## 📸 Screenshot
 Contoh saat dijalankan di Kali Linux:
 
-![Google Dorker Run](screenshot.png)
+![Google Dorker Run](https://image2url.com/images/1757311439798-f3b1283c-2742-432c-8b96-a0ee9ae2f3c2.jpg)
 
 ---
 
